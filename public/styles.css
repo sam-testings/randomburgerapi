@@ -1,0 +1,36 @@
+
+body {
+  width: 50%;
+  margin: auto auto;
+}
+
+body, button {
+  text-align: center;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+input {
+  margin: 10px;
+}
+
+#order-burger {
+  margin: 10px;
+}
+
+#rand-order {
+  margin: 5px;
+}
+
+#rand-burger-container {
+  margin: auto auto;
+  width: 40%;
+  list-style-type: none;
+  border: 2px solid black;
+  border-radius: 3px;
+  padding: 15px;
+}

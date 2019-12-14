@@ -1,0 +1,47 @@
+[
+  {
+    "type": "Shoestring Fries",
+    "cal": 340,
+    "gf": true
+  },
+  {
+    "type": "Sweet Potato Fries",
+    "cal": 360,
+    "gf": true
+  },
+  {
+    "type": "Veggie Skewers",
+    "cal": 80,
+    "gf": true
+  },
+  {
+    "type": "Side Salad",
+    "cal": 80,
+    "gf": true
+  },
+  {
+    "type": "Coleslaw",
+    "cal": 90,
+    "gf": false
+  },
+  {
+    "type": "Fried Onion Strings",
+    "cal": 600,
+    "gf": false
+  },
+  {
+    "type": "Beef Chili",
+    "cal": 290,
+    "gf": true
+  },
+  {
+    "type": "Turkey Chili",
+    "cal": 150,
+    "gf": false
+  },
+  {
+    "type": "Quiona Salad",
+    "cal": 70,
+    "gf": false
+  }
+]

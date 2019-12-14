@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!--
+  Name: Samuel Shi
+  Date: October 31th, 2019
+  Section: CSE 154 AH
+
+  This gives the structure of the taco generator
+-->
+
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Burger API</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="index.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Burger API</h1>
+    </header>
+    <main>
+      <p>Your random burger is...</p>
+      <ul id="rand-burger-container"></ul>
+      <section id="order-burger">
+        <p>Check which ingredients you want!</p>
+        <label><input type="checkbox" name="bun" id="bun">Bun</label><br>
+        <label><input type="checkbox" name="protein" id="protein">Protein</label><br>
+        <label><input type="checkbox" name="cheese" id="cheese">Cheese</label><br>
+        <label><input type="checkbox" name="sauce" id="sauce">Sauce</label><br>
+        <label><input type="checkbox" name="toppings" id="toppings">Toppings</label><br>
+        <label><input type="checkbox" name="sides" id="sides">Sides</label><br>
+      </section>
+      <button id="rand-order">
+        <span>Order a random burger!</span>
+      </button>
+    </main>
+  </body>
+</html>

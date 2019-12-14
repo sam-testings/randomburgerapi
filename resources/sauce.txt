@@ -1,0 +1,87 @@
+[
+  {
+    "type": "Garlic Aioli",
+    "cal": 160,
+    "gf": true
+  },
+  {
+    "type": "Chipotle Aioli",
+    "cal": 140,
+    "gf": true
+  },
+  {
+    "type": "Horseradish Ailoli",
+    "cal": 150,
+    "gf": false
+  },
+  {
+    "type": "Hickory BBQ",
+    "cal": 30,
+    "gf": false
+  },
+  {
+    "type": "Relish",
+    "cal": 35,
+    "gf": false
+  },
+  {
+    "type": "Apricot Sauce",
+    "cal": 70,
+    "gf": false
+  },
+  {
+    "type": "Sweet Sriracha",
+    "cal": 60,
+    "gf": false
+  },
+  {
+    "type": "Mustard",
+    "cal": 80,
+    "gf": false
+  },
+  {
+    "type": "Hot Wing Sauce",
+    "cal": 70,
+    "gf": true
+  },
+  {
+    "type": "Mayo",
+    "cal": 200,
+    "gf": true
+  },
+  {
+    "type": "Basil Pesto",
+    "cal": 90,
+    "gf": false
+  },
+  {
+    "type": "Tzatiki",
+    "cal": 30,
+    "gf": true
+  },
+  {
+    "type": "Buttermilk Ranch",
+    "cal": 110,
+    "gf": false
+  },
+  {
+    "type": "Honey Djon",
+    "cal": 150,
+    "gf": false
+  },
+  {
+    "type": "Thousand Island",
+    "cal": 180,
+    "gf": false
+  },
+  {
+    "type": "Habanero Salsa",
+    "cal": 10,
+    "gf": true
+  },
+  {
+    "type": "Sauceless",
+    "cal": 0,
+    "gf": true
+  }
+]

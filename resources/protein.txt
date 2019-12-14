@@ -1,0 +1,42 @@
+[
+  {
+    "type": "All-Natural Beef",
+    "cal": 420,
+    "gf": true
+  },
+  {
+    "type": "Turkey",
+    "cal": 370,
+    "gf": true
+  },
+  {
+    "type": "Chicken Breast",
+    "cal": 240,
+    "gf": true
+  },
+  {
+    "type": "Black Bean",
+    "cal": 240,
+    "gf": false
+  },
+  {
+    "type": "Bison",
+    "cal": 270,
+    "gf": true
+  },
+  {
+    "type": "Fried Chicken",
+    "cal": 330,
+    "gf": false
+  },
+  {
+    "type": "Mahi Mahi Filet",
+    "cal": 180,
+    "gf": true
+  },
+  {
+    "type": "Impossible Burger",
+    "cal": 430,
+    "gf": false
+  }
+]

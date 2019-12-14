@@ -1,0 +1,149 @@
+[
+  {
+    "type": "Tillamook Cheddar",
+    "cal": 90,
+    "gf": true
+  },
+  {
+    "type": "Provolone",
+    "cal": 80,
+    "gf": true
+  },
+  {
+    "type": "American",
+    "cal": 80,
+    "gf": true
+  },
+  {
+    "type": "Swiss",
+    "cal": 90,
+    "gf": true
+  },
+  {
+    "type": "Smoked Gouda",
+    "cal": 80,
+    "gf": true
+  },
+  {
+    "type": "Feta",
+    "cal": 80,
+    "gf": true
+  },
+  {
+    "type": "Mozzarella",
+    "cal": 70,
+    "gf": true
+  },
+  {
+    "type": "Herbed Goat Cheese",
+    "cal": 80,
+    "gf": true
+  },
+  {
+    "type": "Jalapeño Jack",
+    "cal": 90,
+    "gf": true
+  },
+  {
+    "type": "Danish Blue Cheese",
+    "cal": 100,
+    "gf": false
+  },
+  {
+    "type": "Pimento",
+    "cal": 110,
+    "gf": true
+  },
+  {
+    "type": "Vegan Cheese",
+    "cal": 60,
+    "gf": false
+  }
+];
+let sauce = [
+  {
+    "type": "Garlic Aioli",
+    "cal": 160,
+    "gf": true
+  },
+  {
+    "type": "Chipotle Aioli",
+    "cal": 140,
+    "gf": true
+  },
+  {
+    "type": "Horseradish Ailoli",
+    "cal": 150,
+    "gf": false
+  },
+  {
+    "type": "Hickory BBQ",
+    "cal": 30,
+    "gf": false
+  },
+  {
+    "type": "Relish",
+    "cal": 35,
+    "gf": false
+  },
+  {
+    "type": "Apricot Sauce",
+    "cal": 70,
+    "gf": false
+  },
+  {
+    "type": "Sweet Sriracha",
+    "cal": 60,
+    "gf": false
+  },
+  {
+    "type": "Mustard",
+    "cal": 80,
+    "gf": false
+  },
+  {
+    "type": "Hot Wing Sauce",
+    "cal": 70,
+    "gf": true
+  },
+  {
+    "type": "Mayo",
+    "cal": 200,
+    "gf": true
+  },
+  {
+    "type": "Basil Pesto",
+    "cal": 90,
+    "gf": false
+  },
+  {
+    "type": "Tzatiki",
+    "cal": 30,
+    "gf": true
+  },
+  {
+    "type": "Buttermilk Ranch",
+    "cal": 110,
+    "gf": false
+  },
+  {
+    "type": "Honey Djon",
+    "cal": 150,
+    "gf": false
+  },
+  {
+    "type": "Thousand Island",
+    "cal": 180,
+    "gf": false
+  },
+  {
+    "type": "Habanero Salsa",
+    "cal": 10,
+    "gf": true
+  },
+  {
+    "type": "Sauceless",
+    "cal": 0,
+    "gf": true
+  }
+]

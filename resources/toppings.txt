@@ -1,0 +1,147 @@
+[
+  {
+    "type": "Lettuce Blend",
+    "cal": 0,
+    "gf": true
+  },
+  {
+    "type": "Mixed Greens",
+    "cal": 0,
+    "gf": true
+  },
+  {
+    "type": "Kale",
+    "cal": 0,
+    "gf": true
+  },
+  {
+    "type": "Baby Spinach",
+    "cal": 0,
+    "gf": true
+  },
+  {
+    "type": "Tomatoes",
+    "cal": 5,
+    "gf": true
+  },
+  {
+    "type": "Roasted Grape Tomatoes",
+    "cal": 50,
+    "gf": true
+  },
+  {
+    "type": "Dried Cranberries",
+    "cal": 100,
+    "gf": true
+  },
+  {
+    "type": "Cucumbers",
+    "cal": 4,
+    "gf": true
+  },
+  {
+    "type": "Carrot Strings",
+    "cal": 5,
+    "gf": true
+  },
+  {
+    "type": "Alfalfa Sprouts",
+    "cal": 5,
+    "gf": true
+  },
+  {
+    "type": "Red Onions",
+    "cal": 5,
+    "gf": true
+  },
+  {
+    "type": "Grilled Red Onions",
+    "cal": 40,
+    "gf": true
+  },
+  {
+    "type": "Scallions",
+    "cal": 5,
+    "gf": true
+  },
+  {
+    "type": "Hard-Boiled Egg",
+    "cal": 80,
+    "gf": true
+  },
+  {
+    "type": "Fresh Jalapeño",
+    "cal": 5,
+    "gf": true
+  },
+  {
+    "type": "Dill Pickles",
+    "cal": 5,
+    "gf": true
+  },
+  {
+    "type": "Pepperonicinis",
+    "cal": 4,
+    "gf": false
+  },
+  {
+    "type": "Mixed Olives",
+    "cal": 35,
+    "gf": false
+  },
+  {
+    "type": "Roasted Red Peppers",
+    "cal": 5,
+    "gf": true
+  },
+  {
+    "type": "Grilled Pineapple",
+    "cal": 30,
+    "gf": true
+  },
+  {
+    "type": "Coleslaw",
+    "cal": 35,
+    "gf": false
+  },
+  {
+    "type": "Quinoa",
+    "cal": 70,
+    "gf": false
+  },
+  {
+    "type": "Marinated Artichoke",
+    "cal": 25,
+    "gf": false
+  },
+  {
+    "type": "Avocado",
+    "cal": 60,
+    "gf": true
+  },
+  {
+    "type": "Applewood Smoked Bacon",
+    "cal": 100,
+    "gf": true
+  },
+  {
+    "type": "Bacon Onion Jam",
+    "cal": 120,
+    "gf": true
+  },
+  {
+    "type": "Sautéed Mushrooms",
+    "cal": 20,
+    "gf": true
+  },
+  {
+    "type": "Fried Onion Strings",
+    "cal": 210,
+    "gf": false
+  },
+  {
+    "type": "Guacamole",
+    "cal": 140,
+    "gf": true
+  }
+]
